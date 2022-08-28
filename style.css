@@ -23,6 +23,11 @@ body {
 }
 
 /* LAYOUT */
+
+.warning{
+display:none;
+}
+
 main {
   position: relative;
   width: 100rem;
@@ -174,4 +179,5 @@ main {
 main{
   display:none;
 }
+  .warning{display:block}
 }
